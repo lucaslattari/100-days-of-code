@@ -1,4 +1,4 @@
-Dia 0: 30 de Dezembro de 2016
+Dia 1: 30 de Dezembro de 2016
 
 --------------------Progresso do dia--------------------
 
