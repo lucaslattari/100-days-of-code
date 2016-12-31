@@ -17,3 +17,17 @@ Tive a ideia de construir uma classe abstrata "AbstractSort" que fosse estendida
 Templates em C++ (Programação Genérica) também é uma ideia que pode ficar pro futuro.
 
 Espero em breve trabalhar com outros algoritmos mais complexos, como os que envolvem árvores de dados, grafos, programação dinâmica etc. No entanto, pretendo priorizar os algoritmos da disciplina de AEDS 3.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 2: 31 de Dezembro de 2016
+
+--------------------Progresso do dia--------------------
+
+Dei continuidade ao conjunto de algoritmos de ordenação que tenho escrito. Dessa vez fiz versões do MergeSort e QuickSort. 
+
+Diferente do dia anterior, dessa vez perdi mais tempo corrigindo bugs. No entanto, consegui resolvê-los hoje ainda.
+
+--------------------Pensamentos--------------------
+
+Essa dificuldade gradativa está sendo positiva. No entanto, hoje foi bem mais corrido do que o habitual. Acredito que amanhã será mais ainda.
