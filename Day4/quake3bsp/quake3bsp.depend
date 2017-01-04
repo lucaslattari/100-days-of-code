@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1483502176 source:c:\100daysofcode\day4\quake3bsp\main.cpp
+	"bsp.h"
+
+1483503933 c:\100daysofcode\day4\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1483503511 c:\100daysofcode\day4\quake3bsp\lump.h
+
+1483503887 c:\100daysofcode\day4\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1483497743 c:\100daysofcode\day4\quake3bsp\bsp_data.h
+	<vector>
+
+1483504017 source:c:\100daysofcode\day4\quake3bsp\bsp.cpp
+	"bsp.h"
+
+1483502705 c:\100daysofcode\day4\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+
+1483497795 source:c:\100daysofcode\day4\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1483502779 source:c:\100daysofcode\day4\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1483504030 c:\100daysofcode\day4\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+
+1483504121 source:c:\100daysofcode\day4\quake3bsp\bspwriter.cpp
+	"bsp_writer.h"
+

@@ -1,0 +1,72 @@
+********** HEADER ***********
+BSP Code: IBSP.
+Version: 46
+
+Lump 0:
+Offset: 374420
+Length: 84
+
+Lump 1:
+Offset: 144
+Length: 1224
+
+Lump 2:
+Offset: 1368
+Length: 5920
+
+Lump 3:
+Offset: 20728
+Length: 10008
+
+Lump 4:
+Offset: 7288
+Length: 13440
+
+Lump 5:
+Offset: 41992
+Length: 2636
+
+Lump 6:
+Offset: 44628
+Length: 1768
+
+Lump 7:
+Offset: 46396
+Length: 40
+
+Lump 8:
+Offset: 30736
+Length: 2088
+
+Lump 9:
+Offset: 32824
+Length: 9168
+
+Lump 10:
+Offset: 46436
+Length: 109384
+
+Lump 11:
+Offset: 374504
+Length: 13584
+
+Lump 12:
+Offset: 374504
+Length: 0
+
+Lump 13:
+Offset: 155820
+Length: 47840
+
+Lump 14:
+Offset: 205460
+Length: 147456
+
+Lump 15:
+Offset: 352916
+Length: 21504
+
+Lump 16:
+Offset: 203660
+Length: 1800
+
