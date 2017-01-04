@@ -38,7 +38,7 @@ Dia 3: 2 de Janeiro de 2017
 
 >Progresso do dia:
 
-Perdi um dia, mas consegui dar continuidade hoje. Adicionei um método que carrega um conjunto de dados numéricos via texto. Função bem simples, porém que se adapta ao total de dados inseridos, sem precisar informar novo tamanho ao vetor.
+Perdi um dia, mas consegui dar continuidade hoje. Adicionei um método que carrega um conjunto de dados numéricos via arquivo de texto. Função bem simples, porém que se adapta ao total de dados inseridos, sem precisar informar novo tamanho do vetor.
 
 Além disso, também implementei uma versão eficaz do HeapSort. Este e os demais algoritmos que implementei baseiam-se no livro do Sedgewick (https://www.amazon.com.br/Algorithms-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=sr_1_1?ie=UTF8&qid=1483411660&sr=8-1&keywords=sedgewick)
 
