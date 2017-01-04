@@ -48,7 +48,7 @@ Finalmente, corrigi alguns bugs bobinhos de desalocação de memória e comecei 
 
 Perdi mais tempo do que esperava no HeapSort, mas funcionou sem nenhum problema. Tive a impressão do livro do Sedgewick ser meio "confuso" nessa parte. 
 
-Testei todos os algoritmos que implementei com vetores de 200 mil elementos e verifiquei que o QuickSort a ordena em 0.037 segundos. Muito melhor do que o BubbleSort, que demora quase 5 minutos =)
+Testei todos os algoritmos que implementei com vetores de 200 mil elementos e verifiquei que o QuickSort os ordena em 0.037 segundos. Muito melhor do que o BubbleSort, que demora quase 5 minutos =)
 
 E agora vamos para as árvores!
 
