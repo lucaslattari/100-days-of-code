@@ -51,3 +51,21 @@ Perdi mais tempo do que esperava no HeapSort, mas funcionou sem nenhum problema.
 Testei todos os algoritmos que implementei com vetores de 200 mil elementos e verifiquei que o QuickSort a ordena em 0.037 segundos. Muito melhor do que o BubbleSort, que demora quase 5 minutos =)
 
 E agora vamos para as árvores!
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 4: 3 de Janeiro de 2017
+
+>Progresso do dia:
+
+Dessa vez decidi programar algo diferente dos dias anteriores. Planejei "brincar" um pouco com TensorFlow e Python. No entanto, acabei precisando fazer uma série de atualizações no Mint e preparar o ambiente para isso. Enquanto esperava, decidi mexer com um projeto antigo: brincar com o código-fonte do Quake 3 Arena.
+
+Comecei do começo: criando uma série de classes que fizessem a leitura do formato de arquivo .BSP, bem como um conjunto de estrutura de dados que armazenarão as informações gráficas e de informações do mapa.
+
+Atualmente o código já carrega parte do arquivo, funcionando sem problemas (ao menos pros poucos testes que fiz)
+
+>Conclusões:
+
+Achei que seria interessante mudar um pouco em relação aos códigos anteriores, e de fato foi positivo. Relembrei boa parte do formato de arquivo do Quake 3 Arena, e espero em breve estar brincando com OpenGL e com a renderização dos mapas propriamente ditos.
+
+Também foi interessante ter noção do TensorFlow e de como se monta seu ambiente. Em breve pretendo mexer com ele também!
