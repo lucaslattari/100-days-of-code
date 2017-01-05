@@ -69,3 +69,15 @@ O código que fiz hoje já carrega parte do arquivo, funcionando sem problemas (
 Achei que seria interessante mudar um pouco em relação aos códigos anteriores, e de fato foi positivo. Relembrei boa parte do formato de arquivo do Quake 3 Arena, e espero mexer logo com OpenGL e com a renderização dos mapas propriamente ditos.
 
 Também foi interessante ter noção do TensorFlow e de como se monta seu ambiente. Em breve pretendo mexer com ele também!
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 5: 4 de Janeiro de 2017
+
+>Progresso do dia:
+
+Senti que meu progresso não foi tão bom assim =( continuei trabalhando em classes para fazer leitura e escrita de informações contidas em arquivos .BSP e notei que seria importante criar uma classe Lump usando Programação Genérica (Templates). Fiz e por enquanto não funcionou... Bora continuar tentando!
+
+>Conclusões:
+
+Acho que é assim mesmo, tem dias que se rende bastante com código e em outros nem tanto. No entanto, foi bom mexer com Templates e relembrar como eles funcionam.
