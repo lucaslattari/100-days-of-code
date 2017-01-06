@@ -81,3 +81,15 @@ Senti que meu progresso não foi tão bom assim =( continuei trabalhando em clas
 >Conclusões:
 
 Acho que é assim mesmo, tem dias que se rende bastante com código e em outros nem tanto. No entanto, foi bom mexer com Templates e relembrar como eles funcionam.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 6: 5 de Janeiro de 2017
+
+>Progresso do dia:
+
+Agora sim! Consegui corrigir bugs e fazer funcionar meu parser de informaçõex extraídas dos arquivos de mapas do Quake 3! Sem falar que ele imprime um log em arquivos de texto pra mostrar que tudo está sendo carregado corretamente. Cada lump é representado como um vetor de templates, o que realmente economiza muito esforço de código. Espero terminar esse parser amanhã.
+
+>Conclusões:
+
+Consegui adiantar o que eu havia iniciado ontem e aprender muito mais sobre programação genérica em C++. Espero começar a mexer com OpenGL logo!
