@@ -93,3 +93,15 @@ Agora sim! Consegui corrigir bugs e fazer funcionar meu parser de informaçõex 
 >Conclusões:
 
 Consegui adiantar o que eu havia iniciado ontem e aprender muito mais sobre programação genérica em C++. Espero começar a mexer com OpenGL logo!
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 7: 9 de Janeiro de 2017
+
+>Progresso do dia:
+
+Fiquei uns dias sem mexer =( No entanto, retornei estudando bastante TensorFlow. Fiz uma série de códigos introdutórios seguindo os conceitos do livro "Getting Started with TensorFlow"
+
+>Conclusões:
+
+Foi interessante começar a ter noções dessa importante biblioteca do Google. Parece um bom caminho para mexer com Deep Learning.
