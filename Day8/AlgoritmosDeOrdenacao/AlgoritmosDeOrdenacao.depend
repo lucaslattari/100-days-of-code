@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1483156861 source:c:\100daysofcode\day1\algoritmosdeordenacao\bubblesort.cpp
+	"bubblesort.h"
+
+1483159662 source:c:\100daysofcode\day1\algoritmosdeordenacao\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"stdio.h"
+	"string.h"
+	"bubblesort.h"
+	"selectionsort.h"
+	"insertionsort.h"
+
+1483156286 c:\100daysofcode\day1\algoritmosdeordenacao\bubblesort.h
+
+1483157028 c:\100daysofcode\day1\algoritmosdeordenacao\selectionsort.h
+
+1483158848 source:c:\100daysofcode\day1\algoritmosdeordenacao\selectionsort.cpp
+	"selectionsort.h"
+
+1483159722 source:c:\100daysofcode\day1\algoritmosdeordenacao\insertionsort.cpp
+	"insertionsort.h"
+
+1483159081 c:\100daysofcode\day1\algoritmosdeordenacao\insertionsort.h
+
+1483156861 source:c:\100daysofcode\day2\algoritmosdeordenacao\bubblesort.cpp
+	"bubblesort.h"
+
+1483156286 c:\100daysofcode\day2\algoritmosdeordenacao\bubblesort.h
+
+1483159722 source:c:\100daysofcode\day2\algoritmosdeordenacao\insertionsort.cpp
+	"insertionsort.h"
+
+1483159081 c:\100daysofcode\day2\algoritmosdeordenacao\insertionsort.h
+
+1483158848 source:c:\100daysofcode\day2\algoritmosdeordenacao\selectionsort.cpp
+	"selectionsort.h"
+
+1483157028 c:\100daysofcode\day2\algoritmosdeordenacao\selectionsort.h
+
+1483230715 source:c:\100daysofcode\day2\algoritmosdeordenacao\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"stdio.h"
+	"string.h"
+	"bubblesort.h"
+	"selectionsort.h"
+	"insertionsort.h"
+	"mergesort.h"
+	"quicksort.h"
+
+1483221899 c:\100daysofcode\day2\algoritmosdeordenacao\mergesort.h
+
+1483221770 source:c:\100daysofcode\day2\algoritmosdeordenacao\mergesort.cpp
+	"stdio.h"
+	"string.h"
+	"mergesort.h"
+
+1483227276 c:\100daysofcode\day2\algoritmosdeordenacao\quicksort.h
+
+1483231409 source:c:\100daysofcode\day2\algoritmosdeordenacao\quicksort.cpp
+	<iostream>
+	"stdio.h"
+	"quicksort.h"
+
+1483156861 source:c:\100daysofcode\day3\algoritmosdeordenacao\bubblesort.cpp
+	"bubblesort.h"
+
+1483156286 c:\100daysofcode\day3\algoritmosdeordenacao\bubblesort.h
+
+1483159722 source:c:\100daysofcode\day3\algoritmosdeordenacao\insertionsort.cpp
+	"insertionsort.h"
+
+1483159081 c:\100daysofcode\day3\algoritmosdeordenacao\insertionsort.h
+
+1483221770 source:c:\100daysofcode\day3\algoritmosdeordenacao\mergesort.cpp
+	"stdio.h"
+	"string.h"
+	"mergesort.h"
+
+1483403905 c:\100daysofcode\day3\algoritmosdeordenacao\mergesort.h
+
+1483231409 source:c:\100daysofcode\day3\algoritmosdeordenacao\quicksort.cpp
+	<iostream>
+	"stdio.h"
+	"quicksort.h"
+
+1483227276 c:\100daysofcode\day3\algoritmosdeordenacao\quicksort.h
+
+1483158848 source:c:\100daysofcode\day3\algoritmosdeordenacao\selectionsort.cpp
+	"selectionsort.h"
+
+1483157028 c:\100daysofcode\day3\algoritmosdeordenacao\selectionsort.h
+
+1483414518 source:c:\100daysofcode\day3\algoritmosdeordenacao\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"stdio.h"
+	"string.h"
+	"bubblesort.h"
+	"selectionsort.h"
+	"insertionsort.h"
+	"mergesort.h"
+	"quicksort.h"
+	"heapsort.h"
+
+1483414110 source:c:\100daysofcode\day3\algoritmosdeordenacao\heapsort.cpp
+	"stdio.h"
+	"heapsort.h"
+
+1483413189 c:\100daysofcode\day3\algoritmosdeordenacao\heapsort.h
+
+1483415461 source:c:\100daysofcode\day3\algoritmosdeordenacao\binarysearchtree.cpp
+	"binarysearchtree.h"
+
+1483414848 c:\100daysofcode\day3\algoritmosdeordenacao\binarysearchtree.h
+
