@@ -105,3 +105,15 @@ Fiquei uns dias sem mexer =( No entanto, retornei estudando bastante TensorFlow.
 >Conclusões:
 
 Foi interessante começar a ter noções dessa importante biblioteca do Google. Parece um bom caminho para mexer com Deep Learning.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 8: 10 de Janeiro de 2017
+
+>Progresso do dia:
+
+Fiz uma série de códigos do capítulo 2 do livro "Getting Started with TensorFlow" (basicamente uma revisão sobre operações matemáticas avançadas em Python) e implementei parte de uma árvore binária de busca em C++.
+
+>Conclusões:
+
+Dei continuidade a uma série de aprendizados! Amanhã será interessante, principalmente por mexer com Machine Learning mesmo.
