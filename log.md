@@ -117,3 +117,15 @@ Fiz uma série de códigos do capítulo 2 do livro "Getting Started with TensorF
 >Conclusões:
 
 Dei continuidade a uma série de aprendizados! Amanhã será interessante, principalmente por mexer com Machine Learning mesmo.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 9: 11 de Janeiro de 2017
+
+>Progresso do dia:
+
+Muito progresso! Consegui implementar todas as principais funções de Binary Search Trees em C++ e toda a parte introdutória de Machine Learning do livro "Getting Started with TensorFlow".
+
+>Conclusões:
+
+Visivelmente rendi mais hoje do que ontem. Amanhã teremos redes neurais e talvez a famigerada árvore rubro-negra...
