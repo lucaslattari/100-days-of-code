@@ -136,10 +136,10 @@ Dia 10: 12 de Janeiro de 2017
 
 >Progresso do dia:
 
-Dessa vez implementei apenas a inserção da árvore rubro-negra... Fiquei muito tempo tentando arrumar o código, bugs e fazer uma herança com a classe de Árvore Binária de Busca. O ideal talvez seria usar classe abstrata, mas está bom por hoje. Outro fato intrigante é que aparentemente o pseudocódigo do Sedgewick parecia ter um erro. Precisei adicionar uma verificação a mais pra funcionar pra todos os casos. Inseri todas as letras do alfabeto, desenhei a árvore rubro negra e assim conclui que todas as propriedades dela estavam sendo respeitadas.
+Dessa vez implementei apenas a inserção da árvore rubro-negra... Fiquei muito tempo tentando arrumar o código, bugs e fazer uma herança com a classe de Árvore Binária de Busca. O ideal talvez seria usar classe abstrata, mas está bom por hoje. Outro fato intrigante é que aparentemente o pseudocódigo do Sedgewick parecia ter um erro. Precisei adicionar uma verificação a mais pra funcionar pra todos os casos. Inseri todas as letras do alfabeto (uma pra cada nó, totalizando 25 nós no meu teste definitivo), desenhei a árvore rubro-negra e assim conclui que todas as propriedades dela estavam sendo respeitadas.
 
 >Conclusões:
 
 Algo interessante da implementação que eu fiz é o fato dela ser diferente do usual. Tentei fazer uma série de melhorias em relação ao sugerido pelo Sedgewick, que simplesmente replicava o código de árvores binárias de busca com mais coisas. Gastei muito tempo verificando na mão o funcionamento dela.
 
-Minha noção sobre esse assunto melhorou mais ainda. Próximo passo é implementar a exclusão de nós de árvore rubro negra e tabelas hash.
+Minha noção sobre esse assunto melhorou mais ainda. Próximo passo é implementar a exclusão de nós de árvore rubro-negra e tabelas hash.
