@@ -143,3 +143,15 @@ Dessa vez implementei apenas a inserção da árvore rubro-negra... Fiquei muito
 Algo interessante da implementação que eu fiz é o fato dela ser diferente do usual. Tentei fazer uma série de melhorias em relação ao sugerido pelo Sedgewick, que simplesmente replicava o código de árvores binárias de busca com mais coisas. Gastei muito tempo verificando na mão o funcionamento dela.
 
 Minha noção sobre esse assunto melhorou mais ainda. Próximo passo é implementar a exclusão de nós de árvore rubro-negra e tabelas hash.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 11: 20 de Janeiro de 2017
+
+>Progresso do dia:
+
+Quase terminei meu parser da BSP do Quake 3 =( No entanto, dessa vez é bem provável que eu termine amanhã.
+
+>Conclusões:
+
+Uns dias viajando me fizeram perder ritmo e progresso... Bom, tudo bem. De volta ao trabalho, quase acabando essa parte meio chata e braçal da BSP =)
