@@ -155,3 +155,15 @@ Quase terminei meu parser da BSP do Quake 3 =( No entanto, dessa vez é bem prov
 >Conclusões:
 
 Uns dias viajando me fizeram perder ritmo e progresso... Bom, tudo bem. De volta ao trabalho, quase acabando essa parte meio chata e braçal da BSP =)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 12: 20 de Janeiro de 2017
+
+>Progresso do dia:
+
+Terminei o parser de BSP! Não sei se funciona 100%, descobrirei com o tempo =P
+
+>Conclusões:
+
+Aliviado de ter terminado isso! Agora vem a parte boa, gráficos 3D e OpenGL =)
