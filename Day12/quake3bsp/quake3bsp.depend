@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1483502176 source:c:\100daysofcode\day4\quake3bsp\main.cpp
+	"bsp.h"
+
+1483534202 c:\100daysofcode\day4\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1483535524 c:\100daysofcode\day4\quake3bsp\lump.h
+
+1483535001 c:\100daysofcode\day4\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1483536472 c:\100daysofcode\day4\quake3bsp\bsp_data.h
+	<vector>
+
+1483534305 source:c:\100daysofcode\day4\quake3bsp\bsp.cpp
+	"bsp.h"
+
+1483535776 c:\100daysofcode\day4\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+
+1483536433 source:c:\100daysofcode\day4\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1483502779 source:c:\100daysofcode\day4\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1483504030 c:\100daysofcode\day4\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+
+1483504121 source:c:\100daysofcode\day4\quake3bsp\bspwriter.cpp
+	"bsp_writer.h"
+
+1483582427 source:c:\100daysofcode\day5\quake3bsp\bsp.cpp
+	"bsp.h"
+
+1483534202 c:\100daysofcode\day5\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1483592014 c:\100daysofcode\day5\quake3bsp\lump.h
+
+1483590275 c:\100daysofcode\day5\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1483593957 c:\100daysofcode\day5\quake3bsp\bsp_data.h
+	<vector>
+	"lump_array.h"
+
+1483594778 c:\100daysofcode\day5\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"lump_array.h"
+
+1483582000 c:\100daysofcode\day5\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+
+1483593984 source:c:\100daysofcode\day5\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1483597406 source:c:\100daysofcode\day5\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1483504121 source:c:\100daysofcode\day5\quake3bsp\bspwriter.cpp
+	"bsp_writer.h"
+
+1483502176 source:c:\100daysofcode\day5\quake3bsp\main.cpp
+	"bsp.h"
+
+1483596379 source:c:\100daysofcode\day5\quake3bsp\bsp_writer.cpp
+	"bsp_writer.h"
+
+1483597700 c:\100daysofcode\day5\quake3bsp\lump_array.h
+	<vector>
+
+1483594898 source:c:\100daysofcode\day5\quake3bsp\lump_array.cpp
+	"lump_array.h"
+
+1483582427 source:c:\100daysofcode\day6\quake3bsp\bsp.cpp
+	"bsp.h"
+
+1483534202 c:\100daysofcode\day6\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1483672973 c:\100daysofcode\day6\quake3bsp\lump.h
+
+1483590275 c:\100daysofcode\day6\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1483672779 c:\100daysofcode\day6\quake3bsp\bsp_data.h
+	<vector>
+	"lump_array.h"
+
+1483662415 c:\100daysofcode\day6\quake3bsp\lump_array.h
+	<vector>
+
+1483671306 c:\100daysofcode\day6\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"lump_array.h"
+
+1483672573 c:\100daysofcode\day6\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+
+1483671545 source:c:\100daysofcode\day6\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1483672518 source:c:\100daysofcode\day6\quake3bsp\bsp_writer.cpp
+	"bsp_writer.h"
+
+1483626150 source:c:\100daysofcode\day6\quake3bsp\lump_array.cpp
+	"lump_array.h"
+
+1483502176 source:c:\100daysofcode\day6\quake3bsp\main.cpp
+	"bsp.h"
+
+1483673101 source:c:\100daysofcode\day6\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1484871789 source:c:\100daysofcode\day11\quake3bsp\bsp.cpp
+	<time.h>
+	"bsp.h"
+
+1483534202 c:\100daysofcode\day11\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1484887255 c:\100daysofcode\day11\quake3bsp\lump.h
+
+1483590275 c:\100daysofcode\day11\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1484887463 c:\100daysofcode\day11\quake3bsp\bsp_data.h
+	<vector>
+	"lump_array.h"
+
+1483662415 c:\100daysofcode\day11\quake3bsp\lump_array.h
+	<vector>
+
+1484886977 c:\100daysofcode\day11\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"lump_array.h"
+
+1484887718 c:\100daysofcode\day11\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+
+1484886901 source:c:\100daysofcode\day11\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1484887860 source:c:\100daysofcode\day11\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1484887767 source:c:\100daysofcode\day11\quake3bsp\bsp_writer.cpp
+	"bsp_writer.h"
+
+1484870876 source:c:\100daysofcode\day11\quake3bsp\main.cpp
+	"bsp.h"
+
+1484871789 source:c:\100daysofcode\day12\quake3bsp\bsp.cpp
+	<time.h>
+	"bsp.h"
+
+1483534202 c:\100daysofcode\day12\quake3bsp\bsp.h
+	<string>
+	"lump.h"
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"bsp_reader.h"
+	"bsp_writer.h"
+
+1484966288 c:\100daysofcode\day12\quake3bsp\lump.h
+
+1483590275 c:\100daysofcode\day12\quake3bsp\bsp_header_file.h
+	<string>
+	"lump.h"
+
+1484974965 c:\100daysofcode\day12\quake3bsp\bsp_data.h
+	<stdio.h>
+	<cstdlib>
+	<vector>
+	"lump_array.h"
+
+1483662415 c:\100daysofcode\day12\quake3bsp\lump_array.h
+	<vector>
+
+1484966088 c:\100daysofcode\day12\quake3bsp\bsp_reader.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+	"lump_array.h"
+
+1484970106 c:\100daysofcode\day12\quake3bsp\bsp_writer.h
+	<stdio.h>
+	"bsp_header_file.h"
+	"bsp_data.h"
+
+1484966973 source:c:\100daysofcode\day12\quake3bsp\bsp_data.cpp
+	<stdio.h>
+	"bsp.h"
+
+1484974703 source:c:\100daysofcode\day12\quake3bsp\bsp_reader.cpp
+	"bsp_reader.h"
+
+1484973189 source:c:\100daysofcode\day12\quake3bsp\bsp_writer.cpp
+	"bsp_writer.h"
+
+1484870876 source:c:\100daysofcode\day12\quake3bsp\main.cpp
+	"bsp.h"
+
