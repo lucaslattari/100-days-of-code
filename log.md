@@ -167,3 +167,15 @@ Terminei o parser de BSP! Não sei se funciona 100%, descobrirei com o tempo =P
 >Conclusões:
 
 Aliviado de ter terminado isso! Agora vem a parte boa, gráficos 3D e OpenGL =)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 13: 21 de Janeiro de 2017
+
+>Progresso do dia:
+
+Comecei a mexer com OpenGL. Realizei toda a configuração, comecei a implementar a câmera, mas acabei "perdendo tempo" estudando álgebra linear e computação gráfica para os próximos passos...
+
+>Conclusões:
+
+Foi bom revisar computação gráfica, mas falta muita coisa ainda.
