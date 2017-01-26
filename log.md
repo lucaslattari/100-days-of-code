@@ -179,3 +179,15 @@ Comecei a mexer com OpenGL. Realizei toda a configuração, comecei a implementa
 >Conclusões:
 
 Foi bom revisar computação gráfica, mas falta muita coisa ainda.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 14: 25 de Janeiro de 2017
+
+>Progresso do dia:
+
+Infelizmente não foi muito bom =/ tentei fazer uma câmera 3D FPS do zero, mas fazer isso em OpenGL moderno é menos fácil do que esperava... O jeito é estudar mais OpenGL moderno.
+
+>Conclusões:
+
+Está sendo produtivo, pois o OpenGL que eu sabia nem de hoje é o que se aplica atualmente...
