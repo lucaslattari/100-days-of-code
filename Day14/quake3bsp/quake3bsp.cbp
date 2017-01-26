@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="quake3bsp" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Camera\;Shader\;BSP\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/quake3bsp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../Program Files (x86)/CodeBlocks/MinGW/lib/glew32s.lib" />
+					<Add library="../../../Program Files (x86)/CodeBlocks/MinGW/lib/glew32.lib" />
+					<Add library="../../../Program Files (x86)/CodeBlocks/MinGW/lib/libfreeglut.a" />
+					<Add library="../../../Program Files (x86)/CodeBlocks/MinGW/lib/libglu32.a" />
+					<Add library="../../../Program Files (x86)/CodeBlocks/MinGW/lib/libopengl32.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/quake3bsp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="GLSLShader.cpp">
+			<Option virtualFolder="Shader/" />
+		</Unit>
+		<Unit filename="GLSLShader.h">
+			<Option virtualFolder="Shader/" />
+		</Unit>
+		<Unit filename="bsp.cpp">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_data.cpp">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_data.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_header_file.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_reader.cpp">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_reader.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_writer.cpp">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="bsp_writer.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="camera.cpp">
+			<Option virtualFolder="Camera/" />
+		</Unit>
+		<Unit filename="camera.h">
+			<Option virtualFolder="Camera/" />
+		</Unit>
+		<Unit filename="freeCamera.cpp" />
+		<Unit filename="freeCamera.h" />
+		<Unit filename="lump.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="lump_array.h">
+			<Option virtualFolder="BSP/" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="mouse.h" />
+		<Unit filename="simpleTriangle.cpp" />
+		<Unit filename="simpleTriangle.h" />
+		<Unit filename="window.cpp" />
+		<Unit filename="window.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

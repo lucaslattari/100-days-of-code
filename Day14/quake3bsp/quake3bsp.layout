@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="window.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="GLSLShader.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="569" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="freeCamera.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1221" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="freeCamera.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bsp_header_file.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="537" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="bsp_writer.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="72" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="window.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="662" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="camera.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="540" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="lump_array.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="630" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="camera.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="183" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="bsp_reader.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1150" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="bsp_reader.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16122" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bsp_writer.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="926" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4294" topLine="173" />
+		</Cursor>
+	</File>
+	<File name="simpleTriangle.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2677" topLine="80" />
+		</Cursor>
+	</File>
+	<File name="GLSLShader.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="915" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="simpleTriangle.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mouse.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bsp.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="359" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bsp.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="bsp_data.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1393" topLine="71" />
+		</Cursor>
+	</File>
+	<File name="bsp_data.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14943" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lump.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2864" topLine="34" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
