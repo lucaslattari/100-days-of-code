@@ -191,3 +191,15 @@ Infelizmente não foi muito bom =/ tentei fazer uma câmera 3D FPS do zero, mas 
 >Conclusões:
 
 Está sendo produtivo, pois o OpenGL que eu sabia nem de hoje é o que se aplica atualmente...
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 15: 26 de Janeiro de 2017
+
+>Progresso do dia:
+
+De volta ao básico. Fiquei mexendo em vertex shader e fragment shaders, aprendendo um pouco do básico do OpenGL 3.0+. Deu pra ter uma noção. Implementei um triângulo colorido usando blending.
+
+>Conclusões:
+
+Bora continuar assim até conseguir fazer a bendita câmera funcionar...
