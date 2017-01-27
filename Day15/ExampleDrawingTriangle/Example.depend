@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1485492054 source:c:\100daysofcode\100-days-of-code\day15\exampledrawingtriangle\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"shader.h"
+
+1485492358 c:\100daysofcode\100-days-of-code\day15\exampledrawingtriangle\shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glew.h>
+
