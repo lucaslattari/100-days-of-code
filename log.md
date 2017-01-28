@@ -203,3 +203,15 @@ De volta ao básico. Fiquei mexendo em vertex shader e fragment shaders, aprende
 >Conclusões:
 
 Bora continuar assim até conseguir fazer a bendita câmera funcionar...
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 16: 27 de janeiro de 2017
+
+>Progresso do dia:
+
+Implementei um quadrilátero em OpenGL e realizei mapeamento de texturas com uma imagem .PNG. 
+
+>Conclusões:
+
+Agora tenho uma noção melhor de texturas em OpenGL. A partir de agora, são as transformações geométricas e projetivas os grandes desafios pela frente...
