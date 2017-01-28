@@ -40,10 +40,40 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="SOIL2/SOIL2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/SOIL2.h" />
+		<Unit filename="SOIL2/etc1_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/etc1_utils.h" />
+		<Unit filename="SOIL2/image_DXT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/image_DXT.h" />
+		<Unit filename="SOIL2/image_helper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/image_helper.h" />
+		<Unit filename="SOIL2/jo_jpeg.h" />
+		<Unit filename="SOIL2/pkm_helper.h" />
+		<Unit filename="SOIL2/pvr_helper.h" />
+		<Unit filename="SOIL2/stb_image.h" />
+		<Unit filename="SOIL2/stb_image_write.h" />
+		<Unit filename="SOIL2/stbi_DDS.h" />
+		<Unit filename="SOIL2/stbi_DDS_c.h" />
+		<Unit filename="SOIL2/stbi_ext.h" />
+		<Unit filename="SOIL2/stbi_ext_c.h" />
+		<Unit filename="SOIL2/stbi_pkm.h" />
+		<Unit filename="SOIL2/stbi_pkm_c.h" />
+		<Unit filename="SOIL2/stbi_pvr.h" />
+		<Unit filename="SOIL2/stbi_pvr_c.h" />
 		<Unit filename="core.frag" />
 		<Unit filename="core.vs" />
 		<Unit filename="main.cpp" />
 		<Unit filename="shader.h" />
+		<Unit filename="sonic.png" />
 		<Extensions>
 			<code_completion />
 			<envvars />
