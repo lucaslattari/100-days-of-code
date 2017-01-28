@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1485492054 source:c:\100daysofcode\100-days-of-code\day15\exampledrawingtriangle\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"shader.h"
+
+1485492358 c:\100daysofcode\100-days-of-code\day15\exampledrawingtriangle\shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glew.h>
+
+1485583941 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"SOIL2/SOIL2.h"
+	"shader.h"
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.h
+
+1485492358 c:\100daysofcode\100-days-of-code\day16\exampletexture\shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glew.h>
+
+1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.c
+	"etc1_utils.h"
+	<string.h>
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.h
+
+1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.h
+
+1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.h
+
+1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.c
+	<TargetConditionals.h>
+	<dlfcn.h>
+	<EGL/egl.h>
+	<OpenGLES/ES2/gl.h>
+	<OpenGLES/ES2/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	"SOIL2.h"
+	"stb_image.h"
+	"stb_image_write.h"
+	"image_helper.h"
+	"image_DXT.h"
+	"pvr_helper.h"
+	"pkm_helper.h"
+	"jo_jpeg.h"
+	<stdlib.h>
+	<string.h>
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	"stbi_DDS.h"
+	"stbi_pvr.h"
+	"stbi_pkm.h"
+	"stbi_ext.h"
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	"stbi_DDS.h"
+	"stbi_pvr.h"
+	"stbi_pkm.h"
+	"stbi_DDS_c.h"
+	"stbi_pvr_c.h"
+	"stbi_pkm_c.h"
+	"stbi_ext_c.h"
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds_c.h
+	"image_DXT.h"
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr_c.h
+	"pvr_helper.h"
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pvr_helper.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm_c.h
+	"pkm_helper.h"
+	"etc1_utils.h"
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pkm_helper.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext_c.h
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image_write.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\jo_jpeg.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
