@@ -215,3 +215,15 @@ Implementei um quadrilátero em OpenGL e realizei mapeamento de texturas com uma
 >Conclusões:
 
 Agora tenho uma noção melhor de texturas em OpenGL. A partir de agora, são as transformações geométricas e projetivas os grandes desafios pela frente...
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 17: 03 de fevereiro de 2017
+
+>Progresso do dia:
+
+Fiquei um tempo afastado (fim das férias =[ ) mas tive um baita progresso hoje! Implementei transformações geométricas (translação e rotação) e transformações projetivas (ortográfica e perspectiva). 
+
+>Conclusões:
+
+Agora tenho uma baita noção de transformações geométricas e projetivas! Próximo passo... a câmera 3D =]
