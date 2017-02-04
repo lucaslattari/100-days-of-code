@@ -12,45 +12,48 @@
 	<iostream>
 	<GL/glew.h>
 
-1485583941 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\main.cpp
+1486173483 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\main.cpp
 	<iostream>
 	<GL/glew.h>
 	<GLFW/glfw3.h>
 	"SOIL2/SOIL2.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
 	"shader.h"
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.h
 
-1485492358 c:\100daysofcode\100-days-of-code\day16\exampletexture\shader.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\shader.h
 	<string>
 	<fstream>
 	<sstream>
 	<iostream>
 	<GL/glew.h>
 
-1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.c
+1485584858 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.c
 	"etc1_utils.h"
 	<string.h>
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\etc1_utils.h
 
-1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.c
+1485584858 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.c
 	"image_DXT.h"
 	<math.h>
 	<stdlib.h>
 	<string.h>
 	<stdio.h>
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_dxt.h
 
-1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.c
+1485584858 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.c
 	"image_helper.h"
 	<stdlib.h>
 	<math.h>
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\image_helper.h
 
-1472015386 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.c
+1485584858 source:c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\soil2.c
 	<TargetConditionals.h>
 	<dlfcn.h>
 	<EGL/egl.h>
@@ -81,7 +84,7 @@
 	<stdlib.h>
 	<string.h>
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image.h
 	"stb_image.h"
 	<stdio.h>
 	"stbi_DDS.h"
@@ -107,31 +110,31 @@
 	"stbi_pkm_c.h"
 	"stbi_ext_c.h"
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds_c.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_dds_c.h
 	"image_DXT.h"
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr_c.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pvr_c.h
 	"pvr_helper.h"
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pvr_helper.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pvr_helper.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm_c.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_pkm_c.h
 	"pkm_helper.h"
 	"etc1_utils.h"
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pkm_helper.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\pkm_helper.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext_c.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stbi_ext_c.h
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image_write.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\stb_image_write.h
 	<stdio.h>
 	<stdarg.h>
 	<stdlib.h>
@@ -139,7 +142,7 @@
 	<math.h>
 	<assert.h>
 
-1472015386 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\jo_jpeg.h
+1485584858 c:\100daysofcode\100-days-of-code\day16\exampletexture\soil2\jo_jpeg.h
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
