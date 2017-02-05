@@ -227,3 +227,15 @@ Fiquei um tempo afastado (fim das férias =[ ) mas tive um baita progresso hoje!
 >Conclusões:
 
 Agora tenho uma baita noção de transformações geométricas e projetivas! Próximo passo... a câmera 3D =]
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 18: 04 de fevereiro de 2017
+
+>Progresso do dia:
+
+Finalmente a câmera 3D funcionou direitinho!
+
+>Conclusões:
+
+Demorou mas foi... Acabaram as férias e eu devo ter demorado uns dez dias. No entanto, agora sim tenho noção de como é o funcionamento dessa câmera. Posso dar continuidade ao restante do engine ou outros projetos.
