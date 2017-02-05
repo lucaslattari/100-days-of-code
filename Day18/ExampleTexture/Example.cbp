@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OpenGLModernExample" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/dfgfdg" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/glew32s.lib" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libfreeglut.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libglu32.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libopengl32.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libglfw3.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libglfw3dll.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libgdi32.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/dfgfdg" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="SOIL2/SOIL2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/SOIL2.h" />
+		<Unit filename="SOIL2/etc1_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/etc1_utils.h" />
+		<Unit filename="SOIL2/image_DXT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/image_DXT.h" />
+		<Unit filename="SOIL2/image_helper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SOIL2/image_helper.h" />
+		<Unit filename="SOIL2/jo_jpeg.h" />
+		<Unit filename="SOIL2/pkm_helper.h" />
+		<Unit filename="SOIL2/pvr_helper.h" />
+		<Unit filename="SOIL2/stb_image.h" />
+		<Unit filename="SOIL2/stb_image_write.h" />
+		<Unit filename="SOIL2/stbi_DDS.h" />
+		<Unit filename="SOIL2/stbi_DDS_c.h" />
+		<Unit filename="SOIL2/stbi_ext.h" />
+		<Unit filename="SOIL2/stbi_ext_c.h" />
+		<Unit filename="SOIL2/stbi_pkm.h" />
+		<Unit filename="SOIL2/stbi_pkm_c.h" />
+		<Unit filename="SOIL2/stbi_pvr.h" />
+		<Unit filename="SOIL2/stbi_pvr_c.h" />
+		<Unit filename="camera.h" />
+		<Unit filename="core.frag" />
+		<Unit filename="core.vs" />
+		<Unit filename="main.cpp" />
+		<Unit filename="shader.h" />
+		<Unit filename="sonic.png" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
