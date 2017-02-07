@@ -239,3 +239,17 @@ Finalmente a câmera 3D funcionou direitinho!
 >Conclusões:
 
 Demorou mas foi... Acabaram as férias e eu devo ter demorado uns dez dias. No entanto, agora sim tenho noção de como é o funcionamento dessa câmera. Posso dar continuidade ao restante do engine ou outros projetos.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 19: 06 de fevereiro de 2017
+
+>Progresso do dia:
+
+Implementei uma biblioteca de fila encadeada e pilha em C++.
+
+>Conclusões:
+
+Foi bem simples, pois a ideia desse código é ajudar alunos do curso. O bacana foi implementar isso rapidamente (eu nem cheguei a gastar uma hora propriamente dita), de maneira super simples e objetiva e com um grande desempenho (ambas as estruturas foram testadas com 200 mil elementos randômicos e seu desempenho foi instantâneo.
+
+Link pro repositório: https://github.com/lucaslattari/AlgorithmsAndDataStructuresInC
