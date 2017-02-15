@@ -253,3 +253,15 @@ Implementei uma biblioteca de fila encadeada e pilha em C++.
 Foi bem simples, pois a ideia desse código é ajudar alunos do curso. O bacana foi implementar isso rapidamente (eu nem cheguei a gastar uma hora propriamente dita), de maneira super simples e objetiva e com um grande desempenho (ambas as estruturas foram testadas com 200 mil elementos randômicos e seu desempenho foi instantâneo.
 
 Link pro repositório: https://github.com/lucaslattari/AlgorithmsAndDataStructuresInC
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 20: 14 de fevereiro de 2017
+
+>Progresso do dia:
+
+Implementei um método de regresso logística para reconhecimento de dígitos numéricos em Python.
+
+>Conclusões:
+
+Foram vários dias estudando regressão e redes neurais para conseguir entender e implementar o que fiz hoje. Amanhã posso dar uma olhada em Perceptron Multi Camada...
