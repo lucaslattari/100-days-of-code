@@ -265,3 +265,15 @@ Implementei um método de regresso logística para reconhecimento de dígitos nu
 >Conclusões:
 
 Foram vários dias estudando regressão e redes neurais para conseguir entender e implementar o que fiz hoje. Amanhã posso dar uma olhada em Perceptron Multi Camada...
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Dia 21: 28 de fevereiro de 2017
+
+>Progresso do dia:
+
+Implementei um método de perceptron multicamada para o mesmo problema de reconhecimento de digitos numéricos em Python.
+
+>Conclusões:
+
+Agora sim, sinto ter uma base razoável pra "cair em cima" de Deep Learning! Hora de ler e assistir vídeos at pegar a ideia =)
