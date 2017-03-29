@@ -276,4 +276,28 @@ Implementei um método de perceptron multicamada para o mesmo problema de reconh
 
 >Conclusões:
 
-Agora sim, sinto ter uma base razoável pra "cair em cima" de Deep Learning! Hora de ler e assistir vídeos at pegar a ideia =)
+Agora sim, sinto ter uma base razoável pra "cair em cima" de Deep Learning! Hora de ler e assistir vídeos até pegar a ideia =)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+Dia 22: 25 de março de 2017
+
+>Progresso do dia: 
+
+Implementei um algoritmo que computa a CNN (Convolutional Neural Networks) para o problema de reconhecimento de dígitos numéricos em Python.
+
+>Conclusões: 
+
+Depois de muita leitura e essa implementação, os conceitos de DL ficaram bem claros na minha cabeça. Bora continuar os estudos!
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+Dia 23: 26 de março de 2017
+
+>Progresso do dia: 
+
+Realizei modificações no algoritmo do dia anterior para o problema de classificação de imagens infravermelhas das mamas. Esse trabalho é parte da Iniciação Científica de um estudante. Fiz isso pois o estudante estava obtendo resultados ruins, e eu queria entender melhor o que estava acontecendo.
+
+>Conclusões: 
+
+Graças a esse experimento pude conhecer melhor o "poder" da Deep Learning. Mesmo com 50 imagens na base de dados e testes com 180 imagens, obtive picos de 70% de acurácia em algumas epochs!
