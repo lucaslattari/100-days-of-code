@@ -301,3 +301,15 @@ Realizei modificações no algoritmo do dia anterior para o problema de classifi
 >Conclusões: 
 
 Graças a esse experimento pude conhecer melhor o "poder" da Deep Learning. Mesmo com 50 imagens na base de dados e testes com 180 imagens, obtive picos de 70% de acurácia em algumas epochs!
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+Dia 24: 28 de março de 2017
+
+>Progresso do dia: 
+
+Para ter ideias de um algoritmo de Iniciação Científica de um estudante, mexi em seu código de compressão de caracteres de sequências genômicas. Por enquanto, procurei implementar uma compressão em vários níveis.
+
+>Conclusões: 
+
+Foi bem tranquilo, útil para revisar funções de Python. Tem muito o que fazer ainda!
